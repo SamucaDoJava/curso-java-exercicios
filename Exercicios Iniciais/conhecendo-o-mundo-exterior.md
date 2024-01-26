@@ -30,3 +30,4 @@ Uma lista de texto aí para vocês:
 
 Quem quiser pode guardar ele separado por vírgulas e tratar isso também lá no código! Dos dois jeitos vão estar válidos. Ou seja, você pode usar essa origem acima ou pode usar a origem abaixo:
 
+Homem de Ferro,Capitão América,Thor,Hulk,Viúva Negra,Gavião Arqueiro,Pantera Negra,Homem-Aranha,Doutor Estranho,Capitã Marvel,Feiticeira Escarlate,Falcão,Máquina de Combate,Wolverine,Deadpool
