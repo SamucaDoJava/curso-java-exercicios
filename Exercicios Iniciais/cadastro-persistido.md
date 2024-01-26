@@ -8,4 +8,3 @@ Crie um projeto simples em Java que guarda em um arquivo de texto valores de um 
 - Você não precisa pedir para o usuário o local onde está o seu arquivo, deixe isso dentro do código e oculto para o usuário.
 - Deixe o código o mais limpo e organizado possível! Separe o máximo que puder e se achar que faz sentido, separe tudo em métodos e classes.
 
-Copie e cole esse código no arquivo.md do seu repositório no GitHub. Se precisar de mais alguma coisa, estou à disposição!
